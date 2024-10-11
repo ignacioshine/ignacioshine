@@ -68,23 +68,11 @@
       <img align="center"
         src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
     </a>
-    <a href="https://www.twitter.com/theignacioshine/">
-      <img align="center"
-        src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2">
-    </a>
     <!-- <a>
       <img align="center" src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=f75c7e">
     </a> -->
-    <a href="https://www.instagram.com/enes.ai/">
-      <img align="center"
-        src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=f75c7e">
-    </a>
     <a href="https://github.com/ignacioshine/">
       <img align="center" src="https://img.shields.io/github/followers/ignacioshine?label=follow&style=social">
-    </a>
-    <a href="https://ignacioshine.medium.com/">
-      <img align="center"
-        src="https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=black">
     </a>
   </div>
 
